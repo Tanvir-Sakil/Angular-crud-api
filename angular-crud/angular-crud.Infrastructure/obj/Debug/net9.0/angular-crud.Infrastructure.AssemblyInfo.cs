@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("angular-crud.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b296a2b5fc975400fddc7d44d70cd4a30484588")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a903189bd1839d5157ae6b48b76ac5170e64750f")]
 [assembly: System.Reflection.AssemblyProductAttribute("angular-crud.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("angular-crud.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
