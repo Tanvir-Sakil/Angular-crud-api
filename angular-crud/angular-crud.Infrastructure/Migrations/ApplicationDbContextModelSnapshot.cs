@@ -220,41 +220,7 @@ namespace angular_crud.Infrastructure.Migrations
                     b.ToTable("AspNetUserTokens", (string)null);
                 });
 
-            modelBuilder.Entity("angular_crud.Domain.Entities.Category", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
-
-                    b.Property<string>("Name")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("Categories");
-
-                    b.HasData(
-                        new
-                        {
-                            Id = 1,
-                            Name = "Electronics"
-                        },
-                        new
-                        {
-                            Id = 2,
-                            Name = "Furniture"
-                        },
-                        new
-                        {
-                            Id = 3,
-                            Name = "Clothing"
-                        });
-                });
-
-            modelBuilder.Entity("angular_crud.Domain.Entities.Item", b =>
+            modelBuilder.Entity("angular_crud.Domain.Item", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()

@@ -1,4 +1,4 @@
-﻿using angular_crud.Domain.Entities;
+﻿using angular_crud.Domain;
 using MediatR;
 using System;
 using System.Collections.Generic;

@@ -4,7 +4,7 @@ using angular_crud.Application.Features.Items.Commands.DeleteItem;
 using angular_crud.Application.Features.Items.Commands.UpdateItem;
 using angular_crud.Application.Features.Items.Queries.GetAllItems;
 using angular_crud.Application.Features.Items.Queries.GetItemById;
-using angular_crud.Domain.Entities;
+using angular_crud.Domain;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 

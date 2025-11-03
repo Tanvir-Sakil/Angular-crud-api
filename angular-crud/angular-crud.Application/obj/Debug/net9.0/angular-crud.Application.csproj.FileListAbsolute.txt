@@ -13,4 +13,3 @@ D:\angular-crud-api\angular-crud\angular-crud.Application\obj\Debug\net9.0\angul
 D:\angular-crud-api\angular-crud\angular-crud.Application\obj\Debug\net9.0\refint\angular-crud.Application.dll
 D:\angular-crud-api\angular-crud\angular-crud.Application\obj\Debug\net9.0\angular-crud.Application.pdb
 D:\angular-crud-api\angular-crud\angular-crud.Application\obj\Debug\net9.0\ref\angular-crud.Application.dll
-D:\angular-crud-api\angular-crud\angular-crud.Application\obj\Debug\net9.0\angular-crud.Application.sourcelink.json

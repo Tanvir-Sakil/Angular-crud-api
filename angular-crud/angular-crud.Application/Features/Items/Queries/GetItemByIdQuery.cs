@@ -1,4 +1,4 @@
-﻿using angular_crud.Domain.Entities;
+﻿using angular_crud.Domain;
 using MediatR;
 
 namespace angular_crud.Application.Features.Items.Queries.GetItemById
