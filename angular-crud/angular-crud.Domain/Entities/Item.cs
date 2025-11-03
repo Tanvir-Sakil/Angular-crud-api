@@ -12,5 +12,7 @@ namespace angular_crud.Domain.Entities
         public string Name { get; set; }
         public string Category { get; set; }
         public string Brand { get; set; }
+        public bool inStock { get; set; }
+        public DateTime DateAdded { get; set; }
     }
 }

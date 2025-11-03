@@ -19,7 +19,9 @@ namespace angular_crud.Application.Features.Items.Commands.CreateItem
             {
                 Name = request.Name,
                 Category = request.Category,
-                Brand = request.Brand
+                Brand = request.Brand,
+                inStock = request.inStock,
+                DateAdded = request.DateAdded,
             };
 
             return await _itemRepository.CreateAsync(item);
