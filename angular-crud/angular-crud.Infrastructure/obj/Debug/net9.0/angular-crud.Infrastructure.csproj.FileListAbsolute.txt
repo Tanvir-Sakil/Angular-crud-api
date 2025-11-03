@@ -15,3 +15,4 @@ D:\angular-crud-api\angular-crud\angular-crud.Infrastructure\obj\Debug\net9.0\re
 D:\angular-crud-api\angular-crud\angular-crud.Infrastructure\obj\Debug\net9.0\angular-crud.Infrastructure.pdb
 D:\angular-crud-api\angular-crud\angular-crud.Infrastructure\obj\Debug\net9.0\angular-crud.Infrastructure.genruntimeconfig.cache
 D:\angular-crud-api\angular-crud\angular-crud.Infrastructure\obj\Debug\net9.0\ref\angular-crud.Infrastructure.dll
+D:\angular-crud-api\angular-crud\angular-crud.Infrastructure\obj\Debug\net9.0\angular-crud.Infrastructure.sourcelink.json

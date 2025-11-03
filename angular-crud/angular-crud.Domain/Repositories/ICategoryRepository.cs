@@ -7,12 +7,12 @@ using System.Threading.Tasks;
 
 namespace angular_crud.Domain.Repositories
 {
-    public interface IItemRepository
+    public interface ICategoryRepository
     {
-        Task<IEnumerable<Item>> GetAllAsync();
-        Task<Item> GetByIdAsync(int id);
-        Task<Item> CreateAsync(Item item);
-        Task UpdateAsync(Item item);
+        Task<IEnumerable<Category>> GetAllAsync();
+        Task<Category?>GetByIdAsync(int id) ;
+        Task<Category>AddAsync(Category category);
+        Task UpdateAsync(Category category);
         Task DeleteAsync(int id);
     }
 }
