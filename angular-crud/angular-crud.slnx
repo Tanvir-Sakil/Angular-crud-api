@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="angular-crud.api/angular-crud.api.csproj" />
+  <Project Path="angular-crud.Application/angular-crud.Application.csproj" Id="976409fb-836c-428f-80ee-ddb24b36f1de" />
+  <Project Path="angular-crud.Domain/angular-crud.Domain.csproj" Id="ffb95a58-6df2-4c25-bb4e-9bc074faae2a" />
+  <Project Path="angular-crud.Infrastructure/angular-crud.Infrastructure.csproj" Id="468ce95a-f3b6-4fac-ae87-822e7249b8c4" />
+</Solution>

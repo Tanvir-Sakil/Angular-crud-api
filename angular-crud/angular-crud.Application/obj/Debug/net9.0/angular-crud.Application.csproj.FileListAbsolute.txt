@@ -1,0 +1,15 @@
+D:\angular-crud-api\angular-crud\angular-crud.Application\obj\Debug\net9.0\angular-crud.Application.csproj.AssemblyReference.cache
+D:\angular-crud-api\angular-crud\angular-crud.Application\obj\Debug\net9.0\angular-crud.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\angular-crud-api\angular-crud\angular-crud.Application\obj\Debug\net9.0\angular-crud.Application.AssemblyInfoInputs.cache
+D:\angular-crud-api\angular-crud\angular-crud.Application\obj\Debug\net9.0\angular-crud.Application.AssemblyInfo.cs
+D:\angular-crud-api\angular-crud\angular-crud.Application\obj\Debug\net9.0\angular-crud.Application.csproj.CoreCompileInputs.cache
+D:\angular-crud-api\angular-crud\angular-crud.Application\bin\Debug\net9.0\angular-crud.Application.deps.json
+D:\angular-crud-api\angular-crud\angular-crud.Application\bin\Debug\net9.0\angular-crud.Application.dll
+D:\angular-crud-api\angular-crud\angular-crud.Application\bin\Debug\net9.0\angular-crud.Application.pdb
+D:\angular-crud-api\angular-crud\angular-crud.Application\bin\Debug\net9.0\angular-crud.Domain.dll
+D:\angular-crud-api\angular-crud\angular-crud.Application\bin\Debug\net9.0\angular-crud.Domain.pdb
+D:\angular-crud-api\angular-crud\angular-crud.Application\obj\Debug\net9.0\angular-.7E8C2B34.Up2Date
+D:\angular-crud-api\angular-crud\angular-crud.Application\obj\Debug\net9.0\angular-crud.Application.dll
+D:\angular-crud-api\angular-crud\angular-crud.Application\obj\Debug\net9.0\refint\angular-crud.Application.dll
+D:\angular-crud-api\angular-crud\angular-crud.Application\obj\Debug\net9.0\angular-crud.Application.pdb
+D:\angular-crud-api\angular-crud\angular-crud.Application\obj\Debug\net9.0\ref\angular-crud.Application.dll
