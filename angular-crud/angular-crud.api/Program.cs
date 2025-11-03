@@ -1,3 +1,4 @@
+using angular_crud.Application.Features.Categories.Queries;
 using angular_crud.Application.Features.Items.Queries;
 using angular_crud.Application.Features.Items.Queries.GetAllItems;
 using angular_crud.Domain.Repositories;
@@ -18,9 +19,11 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
         b => b.MigrationsAssembly(typeof(ApplicationDbContext).Assembly.FullName)));
 
 builder.Services.AddScoped<IItemRepository, ItemRepository>();
+builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
 
 builder.Services.AddMediatR(cfg =>
-    cfg.RegisterServicesFromAssemblies(typeof(GetAllItemsQuery).Assembly));
+    cfg.RegisterServicesFromAssemblies(typeof(GetAllCategoriesQuery).Assembly));
+
 
 builder.Services.AddControllers();
 

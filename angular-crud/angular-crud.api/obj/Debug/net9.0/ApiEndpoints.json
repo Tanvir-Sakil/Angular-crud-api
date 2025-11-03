@@ -1,5 +1,25 @@
 [
   {
+    "ContainingType": "angular_crud.Api.Controllers.CategoriesController",
+    "Method": "GetAll",
+    "RelativePath": "categories",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[angular_crud.Domain.Entities.Category, angular-crud.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "angular_crud.Api.Controllers.ItemsController",
     "Method": "GetAll",
     "RelativePath": "items",
@@ -9,7 +29,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[angular_crud.Domain.Item, angular-crud.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[angular_crud.Domain.Entities.Item, angular-crud.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -35,7 +55,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "angular_crud.Domain.Item",
+        "Type": "angular_crud.Domain.Entities.Item",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -61,7 +81,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "angular_crud.Domain.Item",
+        "Type": "angular_crud.Domain.Entities.Item",
         "MediaTypes": [
           "text/plain",
           "application/json",

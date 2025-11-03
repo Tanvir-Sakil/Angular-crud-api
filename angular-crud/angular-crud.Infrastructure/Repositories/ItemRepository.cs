@@ -1,4 +1,4 @@
-﻿using angular_crud.Domain;
+﻿using angular_crud.Domain.Entities;
 using angular_crud.Domain.Repositories;
 using Microsoft.EntityFrameworkCore;
 using System;

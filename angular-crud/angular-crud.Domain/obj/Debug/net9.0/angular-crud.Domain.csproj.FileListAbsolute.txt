@@ -9,3 +9,4 @@ D:\angular-crud-api\angular-crud\angular-crud.Domain\obj\Debug\net9.0\angular-cr
 D:\angular-crud-api\angular-crud\angular-crud.Domain\obj\Debug\net9.0\refint\angular-crud.Domain.dll
 D:\angular-crud-api\angular-crud\angular-crud.Domain\obj\Debug\net9.0\angular-crud.Domain.pdb
 D:\angular-crud-api\angular-crud\angular-crud.Domain\obj\Debug\net9.0\ref\angular-crud.Domain.dll
+D:\angular-crud-api\angular-crud\angular-crud.Domain\obj\Debug\net9.0\angular-crud.Domain.sourcelink.json
